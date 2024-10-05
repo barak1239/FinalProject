@@ -36,4 +36,5 @@ This project is a C++ implementation of the classic Monopoly board game. It incl
 To compile the project, simply run the following command in the root directory:
 
 ```bash
-make
+make then do ./monopoly
+other way to do it is make tests and make main
